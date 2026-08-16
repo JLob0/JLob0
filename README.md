@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-- 🏢 **Empreendedorismo:** Fundador e Líder Técnico na **ALKACODE** e na gestão da **ALKA TV**.
+- 🏢 **Empreendedorismo:** Fundador e Líder Técnico na **ALKACODE** e na gestão da **ALKA STUDIO**.
 - 💻 **Especialista em Backend:** Focado no desenvolvimento Java de alta performance para infraestruturas de servidores (DrakkarMC, Eldoria RP) e lógica customizada.
 - ⚙️ **Automação & Cloud:** Experiência sólida com workflows no n8n, deploy na Vercel e arquitetura de sistemas corporativos (ex: UiPath, AGROSYS).
 - 📚 **Estudos Atuais:** Aprofundando conhecimentos em infraestrutura de redes com foco na certificação **Cisco CCNA**.

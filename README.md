@@ -36,7 +36,7 @@
 
 <p align="center">
   <!-- ATENÇÃO: Substitua "SEU_USUARIO_AQUI" pelo seu nome de usuário real do GitHub no link abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JLob0&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Jeferson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jefersoncarvalho&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Jeferson" />
 </p>
 
 ---

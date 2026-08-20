@@ -12,7 +12,7 @@
 - ⚙️ **Automação & Cloud:** Experiência sólida com workflows no n8n, deploy na Vercel e arquitetura de sistemas corporativos (ex: UiPath, AGROSYS).
 - 📚 **Estudos Atuais:** Aprofundando conhecimentos em infraestrutura de redes com foco na certificação **Cisco CCNA**.
 - 🤖 **IA no Fluxo de Trabalho:** Utilizo ativamente ferramentas como **Cursor AI** para refatoração otimizada, design de UI/UX e modelagem ágil.
-- ⚡ **Fora do código:** Pai de um super parceiro de games, marombeiro nas horas vagas e fã de animes (Solo Leveling, Jujutsu Kaisen).
+- ⚡ **Fora do código:** Pai de um super parceiro de games, marombeiro nas horas vagas e fã de animes (Solo Leveling, Jujutsu Kaisen, Naruto e outros.).
 
 ## 🛠️ Tech Stack & Ferramentas
 
